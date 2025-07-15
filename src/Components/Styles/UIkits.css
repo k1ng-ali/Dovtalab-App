@@ -164,7 +164,9 @@
     font-weight: bold;
 }
 .btn.blue {
-    background-color: #2563eb;
+    background-color: rgba(37, 99, 235, 0.7);
+    backdrop-filter: blur(4px);
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
 }
 .btn-text{
     margin: 0;

@@ -38,7 +38,7 @@ export default function Tests() {
             <div className={`subjects`}>
                 <Subject topic={t("topics.biology")}
                          onClick={() => handleStart("biology")}
-                         count={25}
+                         count={520}
                          isAvailable={true}>
                     <TopicIco
                         color={["#4ade80", "#16a34a"]}
@@ -47,7 +47,7 @@ export default function Tests() {
                 </Subject>
                 <Subject topic={t("topics.history")}
                          onClick={() => handleStart("history")}
-                         count={25}
+                         count={587}
                          isAvailable={true}>
                     <TopicIco
                         color={["#fb923c", "#ea580c"]}
@@ -55,8 +55,8 @@ export default function Tests() {
                     </TopicIco>
                 </Subject>
                 <Subject topic={t("topics.geography")}
-                         onClick={() => handleStart("history")}
-                         count={25}
+                         onClick={() => handleStart("geography")}
+                         count={404}
                          isAvailable={true}>
                     <TopicIco
                         color={["#2dd4bf", "#0d9488"]}
@@ -65,7 +65,7 @@ export default function Tests() {
                 </Subject>
                 <Subject topic={t("topics.lang")}
                          onClick={() => handleStart("lang")}
-                         count={25}
+                         count={919}
                          isAvailable={true}>
                     <TopicIco
                         color={["#f87171", "#dc2626"]}
@@ -74,7 +74,7 @@ export default function Tests() {
                 </Subject>
                 <Subject topic={t("topics.literature")}
                          onClick={() => handleStart("literature")}
-                         count={25}
+                         count={320}
                          isAvailable={true}>
                     <TopicIco
                         color={["#9f51a1", "#8b5ad5"]}
@@ -83,7 +83,7 @@ export default function Tests() {
                 </Subject>
                 <Subject topic={t("topics.math")}
                          onClick={() => notify()}
-                         count={25}
+                         count={0}
                          isAvailable={false}>
                     <TopicIco
                         color={["#bfbfbf", "#8a8a8a"]}
@@ -92,7 +92,7 @@ export default function Tests() {
                 </Subject>
                 <Subject topic={t("topics.physic")}
                          onClick={() => notify()}
-                         count={25}
+                         count={0}
                          isAvailable={false}>
                     <TopicIco
                         color={["#bfbfbf", "#8a8a8a"]}
@@ -101,7 +101,7 @@ export default function Tests() {
                 </Subject>
                 <Subject topic={t("topics.chemistry")}
                          onClick={() => notify()}
-                         count={25}
+                         count={0}
                          isAvailable={false}>
                     <TopicIco
                         color={["#bfbfbf", "#8a8a8a"]}
