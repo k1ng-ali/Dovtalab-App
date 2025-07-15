@@ -1,0 +1,36 @@
+.topic-stat {
+    display: flex;
+    justify-content: space-between;
+}
+.left-stat{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.left-stat h3{
+    margin:0 10px;
+}
+.point {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.right-stat{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.right-stat h3{
+    margin:0;
+}
+.progress{
+    width: 80px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: #efefef;
+    margin-left: 10px;
+}
+.progress-bar{
+    height: 10px;
+    border-radius: 5px;
+}

@@ -1,0 +1,104 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0 20px 0;
+}
+
+.logo {
+    display: flex;
+    margin-left: 20px;
+    align-items: center;
+}
+.ico {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, #2563eb, #0d9488);
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+}
+.title-beta {
+    background-color: #dbeafe;
+    color: #2563eb;
+    margin: 0;
+    padding: 0 5px;
+    border-radius: 5px;
+    width: min-content;
+}
+.star {
+    color: white;
+}
+.title-header {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+.title-text {
+    font-weight: bold;
+    font-size: 30px;
+    margin: 0;
+    color: #1f2937
+}
+.award-cnt{
+    display: flex;
+    margin-right: 20px;
+    background-color: #fef9c3;
+    padding: 5px;
+    border-radius: 5px;
+}
+.award{
+    color: #ca8a04;
+}
+.beta {
+
+}
+.content {
+    padding-bottom: 70px;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 1px 1px 10px rgba(1, 22, 93, 0.15);
+    border-radius: 20px;
+}
+
+.greeting {
+    background: linear-gradient(to right, #2563eb, #0d9488);
+    color: white;
+}
+.greeting h2{
+    margin: 0;
+}
+.greeting p{
+    margin: 5px;
+}
+.top-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 0 16px 0;
+}
+.top-title h2{
+    margin: 5px 0;
+    font-size: 24px;
+}
+.trophy {
+    color: #eab308;
+}
+.trending-up{
+    color: #22c55e
+}
+.text-sm{
+    padding: 10px;
+    background-color: #dbeafe;
+    border-radius: 10px;
+    color: #2563eb;
+}
+

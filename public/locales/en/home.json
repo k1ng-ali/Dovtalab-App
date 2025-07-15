@@ -1,0 +1,25 @@
+{
+  "greeting": {
+    "title": "Good morning! \uD83D\uDC4B",
+    "text": "Ready to continue your learning journey?"
+  },
+  "top": {
+    "title": "Top Users of the Week",
+    "user": "{{name}}",
+    "topic": "{{topic}}",
+    "point": "{{score}}",
+    "point-text": "points"
+  },
+  "stats": {
+    "title": "Your Statistics",
+    "subject": "{{name}}",
+    "text-sm": "\uD83C\uDFAF You're doing great! Complete {{count}} more quizzes to unlock the next level."
+  },
+  "footer": {
+    "home": "Home",
+    "posts": "Feed",
+    "profile": "Profile",
+    "tests": "Test",
+    "community": "Community"
+  }
+}

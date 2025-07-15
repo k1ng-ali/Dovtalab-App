@@ -1,0 +1,15 @@
+{
+  "topics": {
+    "biology": "Биология",
+    "math": "Математика",
+    "physic": "Физика",
+    "history": "История",
+    "geography": "География",
+    "lang": "Язык",
+    "literature": "Литература",
+    "chemistry": "Химия"
+  },
+  "score": "Счёт",
+  "next-question": "Следующий вопрос",
+  "s": "с"
+}

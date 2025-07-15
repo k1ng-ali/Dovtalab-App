@@ -1,0 +1,19 @@
+{
+    "header": "Choose Your Subject",
+    "select-sub": "Select a subject to start your quiz journey",
+    "banner": {
+      "title" : "\uD83D\uDD25 Most Popular",
+      "topic": "Biology - Advanced Level",
+      "start": "Start Quiz"
+    },
+    "topics": {
+      "biology": "Biology",
+      "math": "Mathematics",
+      "physic": "Physics",
+      "history": "History",
+      "geography": "Geography",
+      "lang": "Language",
+      "literature": "Literature",
+      "chemistry": "Chemistry"
+    }
+}

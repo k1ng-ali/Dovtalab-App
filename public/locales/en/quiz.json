@@ -1,0 +1,15 @@
+{
+  "topics": {
+    "biology": "Biology",
+    "math": "Mathematics",
+    "physic": "Physics",
+    "history": "History",
+    "geography": "Geography",
+    "lang": "Language",
+    "literature": "Literature",
+    "chemistry": "Chemistry"
+  },
+  "score": "Score",
+  "next-question": "Next Question",
+  "s": "s"
+}

@@ -1,0 +1,59 @@
+.topUser {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px 0;
+}
+
+.gold-container {
+    background: linear-gradient(to right, #fefce8, #fff7ed);
+    border: 1px solid #fef08a;
+}
+.silver-container {
+    background-color: #efefef;
+    border: none;
+}
+.left {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.num {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.gold-num {
+    background: linear-gradient(to right, #facc15, #fb923c);
+}
+.silver-num {
+    background-color: #9ca3af;
+}
+.user-info{
+    margin-left: 10px;
+}
+.user-info h3{
+    margin: 0;
+}
+.user-info p{
+    margin: 0;
+}
+.right {
+    display: flex;
+    flex-direction: column;
+}
+.right h3{
+    margin: 0;
+}
+.right p{
+    margin: 0;
+}
+.gold-point {
+    color: #ca8a04;
+}

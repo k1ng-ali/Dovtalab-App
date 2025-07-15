@@ -1,0 +1,55 @@
+.tests-container {
+    display: flex;
+    width: 100%;
+    padding: 16px;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 32px 16px 0 16px;
+}
+.second-title {
+    font-size: 16px;
+    font-weight: initial;
+    margin: 8px 16px 0 16px;
+}
+
+.banner {
+    margin: 24px 16px;
+    display: flex;
+    flex-direction: column;
+    padding: 24px;
+    background: linear-gradient(to right, #2563eb, #0d9488);
+    border-radius: 16px;
+    color: white;
+}
+
+.banner-title {
+    font-size: 18px;
+    margin: 0 0 8px;
+}
+.popular-topic {
+    font-size: 16px;
+    margin: 0 0 12px;
+    font-weight: initial;
+}
+
+.banner-btn {
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 8px 16px;
+    width: fit-content;
+    color: #2563eb;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.subjects {
+    display: grid;
+    padding: 16px;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 16px;
+    padding-bottom: 90px;
+}

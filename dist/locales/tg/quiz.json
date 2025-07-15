@@ -1,0 +1,15 @@
+{
+  "topics": {
+    "biology": "Биология",
+    "math": "Математика",
+    "physic": "Физика",
+    "history": "Таърих",
+    "geography": "Ҷуғрофия",
+    "lang": "Забон",
+    "literature": "Адабиёт",
+    "chemistry": "Кимиё"
+  },
+  "score": "Хол",
+  "next-question": "Саволи навбатӣ",
+  "s": "с"
+}
